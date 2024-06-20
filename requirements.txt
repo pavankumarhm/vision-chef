@@ -1,0 +1,7 @@
+streamlit
+streamlit-option-menu
+numpy
+pandas
+fastapi
+uvicorn
+python-multipart
